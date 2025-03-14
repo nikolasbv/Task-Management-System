@@ -12,6 +12,7 @@ This is a Task Management System developed as part of a university project for t
 - **Reminders**: Set reminders for tasks with predefined or custom dates.
 - **Persistence**: Stores tasks and configurations using JSON.
 - **Graphical User Interface (GUI)**: Implemented using JavaFX for an interactive experience.
+- **Data Generation**: Includes a script to generate dummy data for testing.
 
 ## Technologies Used
 
@@ -19,6 +20,7 @@ This is a Task Management System developed as part of a university project for t
 - **JavaFX**
 - **Maven** for dependency management
 - **JSON** for data storage
+- **Python** (for data generation)
 
 ## Installation and Usage
 
@@ -26,6 +28,7 @@ This is a Task Management System developed as part of a university project for t
 
 - Java Development Kit (JDK 20 or higher)
 - Maven
+- Python (for data generation script)
 
 ### Clone Repository
 
@@ -41,6 +44,15 @@ mvn clean install
 mvn javafx:run
 ```
 
+### Generate Dummy Data (Optional)
+
+To generate sample JSON data for testing:
+
+```bash
+cd data_generation
+python data_generator.py
+```
+
 ## Project Structure
 
 ```
@@ -51,6 +63,8 @@ Task-Management-System/
 │   ├── model/ (Task, Category, Priority, Reminder models)
 │   ├── view/ (JavaFX UI components)
 │-- medialab/ (JSON storage directory)
+│-- data_generation/
+│   ├── data_generator.py (Generates dummy data for JSON files)
 │-- pom.xml (Maven configuration)
 ```
 
