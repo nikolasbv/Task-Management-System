@@ -1,0 +1,35 @@
+
+{
+    "categories": [
+        {
+            "name": "Work"
+        },
+        {
+            "name": "Personal"
+        },
+        {
+            "name": "Health"
+        },
+        {
+            "name": "Finance"
+        },
+        {
+            "name": "Education"
+        },
+        {
+            "name": "Shopping"
+        },
+        {
+            "name": "Travel"
+        },
+        {
+            "name": "Home"
+        },
+        {
+            "name": "Hobbies"
+        },
+        {
+            "name": "Projects"
+        }
+    ]
+}

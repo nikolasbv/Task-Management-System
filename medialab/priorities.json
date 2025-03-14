@@ -1,0 +1,35 @@
+
+{
+    "priorities": [
+        {
+            "name": "Default"
+        },
+        {
+            "name": "Low"
+        },
+        {
+            "name": "Medium"
+        },
+        {
+            "name": "High"
+        },
+        {
+            "name": "Urgent"
+        },
+        {
+            "name": "Critical"
+        },
+        {
+            "name": "Optional"
+        },
+        {
+            "name": "Long-Term"
+        },
+        {
+            "name": "Short-Term"
+        },
+        {
+            "name": "Backlog"
+        }
+    ]
+}

@@ -1,0 +1,827 @@
+
+{
+    "tasks": [
+        {
+            "id": "a761eb5d",
+            "title": "Report Test Update Meeting",
+            "description": "Fix all reported bugs before release. This task is critical for the project. Prepare a report on the latest changes. Schedule a meeting to discuss updates. This needs to be reviewed before submission.",
+            "category": "Hobbies",
+            "priority": "Optional",
+            "deadline": "2025-02-20",
+            "status": "DELAYED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "0d58ea40",
+            "title": "Plan Test Test",
+            "description": "Fix all reported bugs before release. Test thoroughly to avoid future issues. Check compatibility with existing modules.",
+            "category": "Education",
+            "priority": "Default",
+            "deadline": "2025-02-19",
+            "status": "DELAYED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "81b30ad0",
+            "title": "Fix Update Test Design",
+            "description": "Update the documentation accordingly. Test thoroughly to avoid future issues. This task is critical for the project. This needs to be reviewed before submission. Ensure that all requirements are met.",
+            "category": "Health",
+            "priority": "Default",
+            "deadline": "2025-02-24",
+            "status": "DELAYED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "afa345e5",
+            "title": "Meeting Design Design Fix",
+            "description": "This task is critical for the project. Fix all reported bugs before release.",
+            "category": "Education",
+            "priority": "Default",
+            "deadline": "2025-03-06",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "94cace77",
+            "title": "Design Report Fix",
+            "description": "Coordinate with the team for progress. Ensure that all requirements are met. This needs to be reviewed before submission. Update the documentation accordingly.",
+            "category": "Home",
+            "priority": "Medium",
+            "deadline": "2025-03-05",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2025-03-04"
+                }
+            ]
+        },
+        {
+            "id": "ebb8baca",
+            "title": "Report Test",
+            "description": "Coordinate with the team for progress. Fix all reported bugs before release. Check compatibility with existing modules.",
+            "category": "Finance",
+            "priority": "Urgent",
+            "deadline": "2025-03-03",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "a39731be",
+            "title": "Design Fix Code",
+            "description": "Ensure that all requirements are met. Coordinate with the team for progress. This needs to be reviewed before submission.",
+            "category": "Work",
+            "priority": "Low",
+            "deadline": "2025-03-07",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2025-03-06"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2025-03-07"
+                }
+            ]
+        },
+        {
+            "id": "e94abe06",
+            "title": "Develop Test Code Plan",
+            "description": "This needs to be reviewed before submission. This task is critical for the project. Prepare a report on the latest changes. Fix all reported bugs before release.",
+            "category": "Education",
+            "priority": "Short-Term",
+            "deadline": "2025-03-02",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "d8ee9c8a",
+            "title": "Plan Code",
+            "description": "Update the documentation accordingly. Test thoroughly to avoid future issues. Coordinate with the team for progress.",
+            "category": "Shopping",
+            "priority": "Short-Term",
+            "deadline": "2025-03-03",
+            "status": "IN_PROGRESS",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "8f7bac2c",
+            "title": "Design Design Update",
+            "description": "Ensure that all requirements are met. This task is critical for the project. Check compatibility with existing modules.",
+            "category": "Shopping",
+            "priority": "Optional",
+            "deadline": "2026-07-29",
+            "status": "OPEN",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-07-28"
+                },
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-07-22"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-06-29"
+                }
+            ]
+        },
+        {
+            "id": "95b0bc9a",
+            "title": "Report Report",
+            "description": "Schedule a meeting to discuss updates. Test thoroughly to avoid future issues. Check compatibility with existing modules.",
+            "category": "Projects",
+            "priority": "Critical",
+            "deadline": "2026-03-10",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-03-03"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2025-03-28"
+                }
+            ]
+        },
+        {
+            "id": "0cb421c0",
+            "title": "Meeting Report Update Plan",
+            "description": "Test thoroughly to avoid future issues. Prepare a report on the latest changes. Update the documentation accordingly. Fix all reported bugs before release.",
+            "category": "Shopping",
+            "priority": "High",
+            "deadline": "2026-03-31",
+            "status": "IN_PROGRESS",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "1a04e3ca",
+            "title": "Fix",
+            "description": "Ensure that all requirements are met. Check compatibility with existing modules.",
+            "category": "Projects",
+            "priority": "Backlog",
+            "deadline": "2026-10-22",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-10-15"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-09-22"
+                }
+            ]
+        },
+        {
+            "id": "b77f769c",
+            "title": "Meeting Meeting",
+            "description": "Check compatibility with existing modules. Ensure that all requirements are met. This needs to be reviewed before submission. Update the documentation accordingly. Prepare a report on the latest changes.",
+            "category": "Finance",
+            "priority": "Medium",
+            "deadline": "2025-09-19",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2025-09-18"
+                },
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2025-09-12"
+                }
+            ]
+        },
+        {
+            "id": "82ec5757",
+            "title": "Test",
+            "description": "This needs to be reviewed before submission. Test thoroughly to avoid future issues. Check compatibility with existing modules. Fix all reported bugs before release. Update the documentation accordingly.",
+            "category": "Hobbies",
+            "priority": "Optional",
+            "deadline": "2026-05-25",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "bee257cc",
+            "title": "Update Design Update Test",
+            "description": "Fix all reported bugs before release. Prepare a report on the latest changes. This needs to be reviewed before submission. Check compatibility with existing modules.",
+            "category": "Hobbies",
+            "priority": "Backlog",
+            "deadline": "2026-04-18",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-04-11"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-03-18"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2026-04-18"
+                }
+            ]
+        },
+        {
+            "id": "0ac23add",
+            "title": "Design",
+            "description": "Coordinate with the team for progress. Prepare a report on the latest changes. Fix all reported bugs before release.",
+            "category": "Work",
+            "priority": "Short-Term",
+            "deadline": "2026-04-27",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-04-26"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2026-03-09"
+                }
+            ]
+        },
+        {
+            "id": "67de5d04",
+            "title": "Project Code Develop Code",
+            "description": "Coordinate with the team for progress. Update the documentation accordingly. This needs to be reviewed before submission. Prepare a report on the latest changes. This task is critical for the project.",
+            "category": "Home",
+            "priority": "Critical",
+            "deadline": "2025-09-18",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2025-09-17"
+                },
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2025-09-11"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2025-09-05"
+                }
+            ]
+        },
+        {
+            "id": "6d5304d8",
+            "title": "Test Fix Plan",
+            "description": "Schedule a meeting to discuss updates. Coordinate with the team for progress. Update the documentation accordingly. Prepare a report on the latest changes. This needs to be reviewed before submission.",
+            "category": "Shopping",
+            "priority": "Backlog",
+            "deadline": "2025-03-15",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "23ad92d2",
+            "title": "Meeting",
+            "description": "Coordinate with the team for progress. This needs to be reviewed before submission.",
+            "category": "Education",
+            "priority": "Default",
+            "deadline": "2025-09-24",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-08-24"
+                }
+            ]
+        },
+        {
+            "id": "eac13be4",
+            "title": "Code Project Test Fix",
+            "description": "Schedule a meeting to discuss updates. Update the documentation accordingly. Test thoroughly to avoid future issues. Fix all reported bugs before release.",
+            "category": "Travel",
+            "priority": "Low",
+            "deadline": "2026-06-25",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-06-18"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-05-25"
+                }
+            ]
+        },
+        {
+            "id": "99c0a5d9",
+            "title": "Project",
+            "description": "Prepare a report on the latest changes. Ensure that all requirements are met. This task is critical for the project. Check compatibility with existing modules. Test thoroughly to avoid future issues.",
+            "category": "Home",
+            "priority": "Short-Term",
+            "deadline": "2026-08-15",
+            "status": "OPEN",
+            "reminders": [
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-08-08"
+                }
+            ]
+        },
+        {
+            "id": "1873c8a4",
+            "title": "Code Project",
+            "description": "Ensure that all requirements are met. Check compatibility with existing modules.",
+            "category": "Projects",
+            "priority": "Long-Term",
+            "deadline": "2026-06-14",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-06-13"
+                },
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-06-07"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-05-14"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2025-06-28"
+                }
+            ]
+        },
+        {
+            "id": "baa2c2fa",
+            "title": "Report Design Code Test",
+            "description": "Coordinate with the team for progress. This task is critical for the project. Fix all reported bugs before release.",
+            "category": "Finance",
+            "priority": "Medium",
+            "deadline": "2026-04-28",
+            "status": "OPEN",
+            "reminders": [
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-03-28"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2025-06-26"
+                }
+            ]
+        },
+        {
+            "id": "ad60518a",
+            "title": "Update Code Fix",
+            "description": "Fix all reported bugs before release. Update the documentation accordingly. Prepare a report on the latest changes.",
+            "category": "Health",
+            "priority": "Urgent",
+            "deadline": "2026-12-15",
+            "status": "OPEN",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-12-14"
+                },
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-12-08"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-11-15"
+                }
+            ]
+        },
+        {
+            "id": "00f9e7b6",
+            "title": "Code Design Code",
+            "description": "Coordinate with the team for progress. Test thoroughly to avoid future issues. Update the documentation accordingly. This needs to be reviewed before submission.",
+            "category": "Health",
+            "priority": "Critical",
+            "deadline": "2026-12-18",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-11-18"
+                }
+            ]
+        },
+        {
+            "id": "24e12610",
+            "title": "Meeting Meeting Code Update",
+            "description": "Update the documentation accordingly. Check compatibility with existing modules. Ensure that all requirements are met. Coordinate with the team for progress. This needs to be reviewed before submission.",
+            "category": "Finance",
+            "priority": "Critical",
+            "deadline": "2026-07-21",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-07-20"
+                },
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-07-14"
+                }
+            ]
+        },
+        {
+            "id": "5585eb5e",
+            "title": "Plan Design",
+            "description": "Check compatibility with existing modules. Schedule a meeting to discuss updates.",
+            "category": "Health",
+            "priority": "Urgent",
+            "deadline": "2025-10-15",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2025-10-14"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-09-15"
+                }
+            ]
+        },
+        {
+            "id": "79314f12",
+            "title": "Plan",
+            "description": "This needs to be reviewed before submission. Prepare a report on the latest changes. Coordinate with the team for progress. Ensure that all requirements are met. Fix all reported bugs before release.",
+            "category": "Work",
+            "priority": "Critical",
+            "deadline": "2025-12-29",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2025-12-28"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-11-29"
+                }
+            ]
+        },
+        {
+            "id": "e71d5132",
+            "title": "Project Fix Meeting Code",
+            "description": "Fix all reported bugs before release. Schedule a meeting to discuss updates. Prepare a report on the latest changes. Ensure that all requirements are met.",
+            "category": "Personal",
+            "priority": "Optional",
+            "deadline": "2025-12-10",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2025-12-09"
+                }
+            ]
+        },
+        {
+            "id": "7b245a12",
+            "title": "Develop Update Update",
+            "description": "Coordinate with the team for progress. Prepare a report on the latest changes. Fix all reported bugs before release.",
+            "category": "Hobbies",
+            "priority": "High",
+            "deadline": "2025-05-07",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "a31db3b1",
+            "title": "Project Design Update Report",
+            "description": "Check compatibility with existing modules. Update the documentation accordingly. This needs to be reviewed before submission. Ensure that all requirements are met.",
+            "category": "Work",
+            "priority": "Long-Term",
+            "deadline": "2025-07-22",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-06-22"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2025-03-05"
+                }
+            ]
+        },
+        {
+            "id": "10b3b864",
+            "title": "Update Design Design Design",
+            "description": "Update the documentation accordingly. Test thoroughly to avoid future issues. Coordinate with the team for progress.",
+            "category": "Personal",
+            "priority": "Urgent",
+            "deadline": "2025-09-17",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "debea15a",
+            "title": "Design Report",
+            "description": "Check compatibility with existing modules. Test thoroughly to avoid future issues. Ensure that all requirements are met. Schedule a meeting to discuss updates. Fix all reported bugs before release.",
+            "category": "Home",
+            "priority": "Low",
+            "deadline": "2026-06-19",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-06-18"
+                },
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2026-06-12"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-05-19"
+                }
+            ]
+        },
+        {
+            "id": "91e596a4",
+            "title": "Develop",
+            "description": "Test thoroughly to avoid future issues. Fix all reported bugs before release. Prepare a report on the latest changes.",
+            "category": "Travel",
+            "priority": "Optional",
+            "deadline": "2026-01-27",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-01-26"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-12-27"
+                }
+            ]
+        },
+        {
+            "id": "0caa892b",
+            "title": "Test Design Project",
+            "description": "Coordinate with the team for progress. This task is critical for the project.",
+            "category": "Travel",
+            "priority": "Long-Term",
+            "deadline": "2026-08-26",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-08-25"
+                }
+            ]
+        },
+        {
+            "id": "8d8cc0b2",
+            "title": "Design",
+            "description": "Check compatibility with existing modules. Ensure that all requirements are met. Test thoroughly to avoid future issues. Fix all reported bugs before release.",
+            "category": "Health",
+            "priority": "High",
+            "deadline": "2026-04-03",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-04-02"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-03-03"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2026-01-11"
+                }
+            ]
+        },
+        {
+            "id": "61beeff0",
+            "title": "Meeting Develop Plan",
+            "description": "Prepare a report on the latest changes. Fix all reported bugs before release. Update the documentation accordingly. Schedule a meeting to discuss updates. This needs to be reviewed before submission.",
+            "category": "Education",
+            "priority": "Default",
+            "deadline": "2025-09-21",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-08-21"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2025-05-07"
+                }
+            ]
+        },
+        {
+            "id": "f90c6438",
+            "title": "Test",
+            "description": "Ensure that all requirements are met. This needs to be reviewed before submission. Check compatibility with existing modules.",
+            "category": "Personal",
+            "priority": "Low",
+            "deadline": "2025-12-08",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2025-12-01"
+                }
+            ]
+        },
+        {
+            "id": "0d155790",
+            "title": "Code Project Code",
+            "description": "Ensure that all requirements are met. Check compatibility with existing modules. This needs to be reviewed before submission. Test thoroughly to avoid future issues. Schedule a meeting to discuss updates.",
+            "category": "Personal",
+            "priority": "Backlog",
+            "deadline": "2025-04-17",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "9d723b5f",
+            "title": "Test",
+            "description": "Schedule a meeting to discuss updates. This needs to be reviewed before submission.",
+            "category": "Travel",
+            "priority": "Low",
+            "deadline": "2026-10-18",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-10-17"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2026-09-18"
+                }
+            ]
+        },
+        {
+            "id": "0d44bf3d",
+            "title": "Meeting Plan Report",
+            "description": "Test thoroughly to avoid future issues. Check compatibility with existing modules. Coordinate with the team for progress. This task is critical for the project. Ensure that all requirements are met.",
+            "category": "Projects",
+            "priority": "Backlog",
+            "deadline": "2025-06-25",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "48f3a003",
+            "title": "Project Report Meeting Report",
+            "description": "Coordinate with the team for progress. Schedule a meeting to discuss updates.",
+            "category": "Travel",
+            "priority": "Medium",
+            "deadline": "2025-10-30",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-09-30"
+                }
+            ]
+        },
+        {
+            "id": "7582c6b5",
+            "title": "Fix Plan Test",
+            "description": "Update the documentation accordingly. Coordinate with the team for progress. Schedule a meeting to discuss updates. Ensure that all requirements are met.",
+            "category": "Projects",
+            "priority": "High",
+            "deadline": "2025-11-30",
+            "status": "POSTPONED",
+            "reminders": [
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2025-11-23"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-10-30"
+                }
+            ]
+        },
+        {
+            "id": "89f5d2ac",
+            "title": "Plan",
+            "description": "Schedule a meeting to discuss updates. Fix all reported bugs before release.",
+            "category": "Personal",
+            "priority": "High",
+            "deadline": "2026-01-04",
+            "status": "OPEN",
+            "reminders": [
+                {
+                    "type": "ONE_DAY_BEFORE",
+                    "date": "2026-01-03"
+                },
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2025-12-28"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-12-04"
+                },
+                {
+                    "type": "CUSTOM_DATE",
+                    "date": "2025-05-19"
+                }
+            ]
+        },
+        {
+            "id": "3021a5bc",
+            "title": "Report Report",
+            "description": "This task is critical for the project. Coordinate with the team for progress.",
+            "category": "Work",
+            "priority": "Urgent",
+            "deadline": "2025-05-01",
+            "status": "IN_PROGRESS",
+            "reminders": [
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2025-04-24"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-04-01"
+                }
+            ]
+        },
+        {
+            "id": "02566d0d",
+            "title": "Develop",
+            "description": "Test thoroughly to avoid future issues. Schedule a meeting to discuss updates. Fix all reported bugs before release. This needs to be reviewed before submission.",
+            "category": "Home",
+            "priority": "Medium",
+            "deadline": "2026-12-06",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "ed972100",
+            "title": "Fix Fix",
+            "description": "Fix all reported bugs before release. Schedule a meeting to discuss updates. Test thoroughly to avoid future issues. Prepare a report on the latest changes.",
+            "category": "Shopping",
+            "priority": "Short-Term",
+            "deadline": "2025-05-13",
+            "status": "OPEN",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "566e6194",
+            "title": "Update Fix",
+            "description": "Check compatibility with existing modules. Schedule a meeting to discuss updates. Update the documentation accordingly. Test thoroughly to avoid future issues.",
+            "category": "Finance",
+            "priority": "Long-Term",
+            "deadline": "2025-08-13",
+            "status": "COMPLETED",
+            "reminders": [
+            ]
+        },
+        {
+            "id": "3696eb98",
+            "title": "Code",
+            "description": "This needs to be reviewed before submission. Prepare a report on the latest changes.",
+            "category": "Hobbies",
+            "priority": "Long-Term",
+            "deadline": "2025-11-04",
+            "status": "OPEN",
+            "reminders": [
+                {
+                    "type": "ONE_WEEK_BEFORE",
+                    "date": "2025-10-28"
+                },
+                {
+                    "type": "ONE_MONTH_BEFORE",
+                    "date": "2025-10-04"
+                }
+            ]
+        }
+    ]
+}
